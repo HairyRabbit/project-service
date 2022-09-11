@@ -1,0 +1,19 @@
+{
+  "comment": "This is an auto-generated file, it keeps track of whats been built. This is a local file, don't store this in version control.",
+  "packages": {
+    "gateway#build": {
+      "lastModified": 1660966659024.9817,
+      "status": "succeeded",
+      "haveCheckedForRerun": false,
+      "rerun": true,
+      "command": "test"
+    },
+    "mp#build": {
+      "lastModified": 1661129487190.2158,
+      "status": "succeeded",
+      "haveCheckedForRerun": false,
+      "rerun": true,
+      "command": "test"
+    }
+  }
+}
