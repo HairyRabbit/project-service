@@ -1,9 +1,8 @@
 *.js
-db
 .env
 .env.production
 node_modules
 .webpack
 .webpack-cache
 .yarn/.cache
-dist
+lib
